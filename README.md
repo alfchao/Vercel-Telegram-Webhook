@@ -13,7 +13,11 @@
 1. [fork](https://github.com/alfchao/Vercel-Telegram-Webhook/fork) 此项目。
 2. 在 [vercel](https://vercel.com/) 上选择自己克隆的项目，设置环境变量后部署。
 
+### 方式二：
 
+直接点击下方按钮部署，缺点是更新需要删除后重新部署。
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falfchao%2FVercel-Telegram-Webhook%3Fenv%3DTELEGRAM_BOT_TOKEN%2CSALT%2CCUSTOM_DOMAINS)
 ## 环境变量说明
 
 | 环境变量名         | 是否必须 | 含义                                         |
